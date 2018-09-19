@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#44bea9">
+
+    <TextView
+        android:id="@+id/tvItemId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dhaka"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        android:textColor="#4c1199"
+        android:textStyle="bold"
+
+
+        />
+
+
+</LinearLayout>

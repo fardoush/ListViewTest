@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">List View Test</string>
+    <string-array name="dist">
+
+        <item>Dhaka</item>
+        <item>Khulna</item>
+        <item>Gazipur</item>
+
+        <item>Noakhali</item>
+        <item>Chittagong</item>
+        <item>Chuadanga</item>
+
+        <item>Faridpur</item>
+        <item>Fani</item>
+
+        <item>Commila</item>
+        <item>you</item>
+
+
+    </string-array>
+
+    <string name="Dhaka">Dhaka District (???? ????, Dhaka Jela also Dhaka Zila) is a district located in central Bangladesh,
+        and is the densest district in the nation. It is a part of the Dhaka Division. Dhaka, the capital of Bangladesh,
+        rests on the eastern banks of the Buriganga River which flows from the Turag to the south of the district.
+        While Dhaka (city corporation) occupies only about a fifth of the area of Dhaka district, it is the economic,
+        political and cultural centre of the district and the country as a whole. Dhaka District is an administrative entity,
+        and like many other cities, it does not cover the modern conurbation which is Greater Dhaka,
+        which has spilled into neighbouring districts,
+        nor does the conurbation cover the whole district, as there are rural
+        areas within the district.
+    \n\n
+        Profile :\n\n
+    Dhaka district was established in 1772. The district consists of 5 upazilas,
+        21 thanas, 3 municipalities, 77 union parishads, 1020 mouzas, 1863 villages.\n\n
+        Upazilas :\n\n
+    Badda Thana, Cantonment Thana, Demra Thana, Dhamrai Upazila,
+        Dhanmondi Thana, Dohar Upazila, Gulshan Thana, Hazaribagh Thana,
+        Kafrul Thana, Kamrangir Char Thana, Keraniganj Upazila, Khilgaon Thana,
+        Kotwali Thana, Lalbagh Thana, Mirpur Thana, Mohammadpur Thana, Motijheel Thana,
+        Nawabganj Upazila, Pallabi Thana, Ramna Thana, Sabujbagh Thana, Savar Upazila, Shyampur Thana,
+        Sutrapur Thana, Tejgaon Thana, Uttara Thana.
+        \n\n
+    History :\n\n
+        Once upon a time Dhaka was ruled by the Hindu Kings. The Pala and the Sena dynasties ruled Dhaka for many years.
+        It was not until early fourteenth century when the Muslim rulers began to come to Bengal.
+        Dhaka was made the capital of Bengal in 1608 and Islam Khan renamed Dhaka as Jahangirnagar after
+        the name of Emperor Jahangir. In the eighteenth century Dhaka lost political
+        importance when Murshid Quli Khan transferred the
+        capital of Bengal from Dhaka to Murshidabad. But Dhaka never lost its commercial importance.
+
+
+    </string>
+
+    <string name="khulna">
+        Historical events About 600 years ago Pir (saint) Khan Jahan Ali came to
+        this district to preach Islam. He, for the first time, established settlements in the
+        Sundarnbans area and established his control over the region having his seat in Bagerhat.
+        Mahatma Gandhi visited Khalishpur of the district to invigorate Swadeshi Movement.
+        \n\n
+
+Marks of the War of Liberation Mass killing site 3;
+        memorial monument 5, memorial sculpture 1 (Bir Bangali).
+        \n\n
+
+Literacy rate and educational institutions Average literacy 57.81%; male 63.26%,
+        female 51.83% Educational institutions: university 6, medical college 1,
+        homeopathic college 1, college 27, art college 1, polytechnic institute 6,
+        secondary school 50. Noted educational institutions: khulna university of engineering and
+        technology (1969), university of khulna (1991), Khulna Medical College (1992),
+        Khulna Homeopathic Medical College, Darul Ihsan University (1989), Asian University of Bangladesh (1996),
+        Azam Khan Commerce College, Brajalal College, Government Pioneer Mahila College, Government Sundarban Adarsha College (1969),
+        Kopotakkho College (1984), Zobeda Khanam Mahila Degree College (1996), Hazi Mohammad Mohsin College,
+        Khulna City Corporation Collegiate School, Khulna Zila School (1885), St. Joseph's High School,
+        Coronation Government Secondary School, Tutpara Model Government Primary School (1896),
+        Koyra Madinabad High School, Sundarban Secondary School,
+        Victoria Infant Primary School, Khulna Alia Madrasa.
+    </string>
+
+</resources>
